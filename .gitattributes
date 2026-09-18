@@ -1,0 +1,15 @@
+# Text file normalization
+
+* text=auto
+*.min.css linguist-generated
+build/* linguist-vendored
+*.sh text eol=lf
+*.woff2 binary
+
+*.jpeg binary   
+Cargo.lock linguist-generated
+themes/**/*.css linguist-detectable
+
+*.html linguist-vendored
+
+# eof 3e09b5f0
